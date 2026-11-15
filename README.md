@@ -46,3 +46,4 @@ npm run preview
 1. Rode `npm run build` na sua máquina.
 2. Acesse `https://app.netlify.com/drop`.
 3. Arraste a pasta `dist` gerada para a área de upload.
+# livereczz-site
